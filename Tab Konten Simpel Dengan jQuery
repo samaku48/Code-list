@@ -9,7 +9,6 @@
     background: yellow;
 }
 </style>
-
 <ul class="tab-menu">
     <li><a href="#tab-1">Tab 1</a></li>
     <li><a href="#tab-2">Tab 2</a></li>
@@ -18,7 +17,6 @@
 <p id="tab-1" class="tab-content">Content 1</p>
 <p id="tab-2" class="tab-content">Content 2</p>
 <p id="tab-3" class="tab-content">Content 3</p>
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script type="text/javascript">
 $(document).ready(function() {
